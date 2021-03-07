@@ -13,3 +13,13 @@
  * #### HTML
  * #### CSS
  * #### JavaScript
+
+ ## Experience
+#### https://mad-ninja.github.io/landingpage/
+#### https://mad-ninja.github.io/momentum/
+ 
+## Education
+#### SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL
+
+## English 
+#### A2 (Pre-intermediate)
